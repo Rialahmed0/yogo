@@ -55,3 +55,67 @@ header{
 .banner img{
     max-height: 500px;
 }
+.banner a{
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background-color: #6900d1;
+    text-decoration: none !important;
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+.banner a:hover{
+    color: white;
+}
+.express-btn{
+    background-color: #fff ;
+    color: black;
+    margin-right: 5px;
+}
+
+
+
+/* --------------section service ---------*/
+
+
+.service{
+    margin: 75px 0;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.subtitle{
+    text-align: center;
+    font-size:15px ;
+    margin-bottom: 70px;
+}
+.service-box{
+    padding: 0 35px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+service-box img{
+    width: 60px;
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+service-box h6{
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+.service-box p{
+    font-size: 14px;
+    color: #808080;
+}
+.fa-arrow-right{
+    font-size: 22px !important;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    cursor: pointer;
+}
