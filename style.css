@@ -223,6 +223,12 @@ header{
         left: 0 !important;
         right:0 !important;
     }
+    .banner img {
+        width: 0;
+    }
+    .banner button{
+        margin-bottom: 10px;
+    }
 
 }
 
